@@ -1,6 +1,6 @@
 # DataCo Supply Chain Analytics — Power BI Report
 
-![Dashboard Preview](screenshots/01_delivery_performance.png)
+![Dashboard Preview](screenshots/01_delivery_performance.png.png)
 
 ## Project Overview
 End-to-end Supply Chain Analytics Report built on 180,000+ real orders 
@@ -27,7 +27,7 @@ risk. This report answers three core questions:
 ## Dashboard Pages
 
 ### 1. Delivery Performance Dashboard
-![Delivery Dashboard](screenshots/01_delivery_performance.png)
+![Delivery Dashboard](screenshots/01_delivery_performance.png.png)
 
 **Key Findings:**
 - 54.78% of 63,629 orders were delivered late
@@ -38,7 +38,7 @@ risk. This report answers three core questions:
 ---
 
 ### 2. Financial & Profitability Performance Dashboard
-![Financial Dashboard](screenshots/02_financial_profitability.png)
+![Financial Dashboard](screenshots/02_financial_profitability.png.png)
 
 **Key Findings:**
 - $36.45M total revenue · $3.93M total profit · 10.79% profit margin
@@ -49,7 +49,7 @@ risk. This report answers three core questions:
 ---
 
 ### 3. Risk & Operational Intelligence Dashboard
-![Risk Dashboard](screenshots/03_risk_intelligence.png)
+![Risk Dashboard](screenshots/03_risk_intelligence.png.png)
 
 **Key Findings:**
 - 54.78% of orders flagged as high delivery risk
